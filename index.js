@@ -14,10 +14,10 @@ const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
 const BotName = 'Getoux'; 
-const instagram = 'kepo lu bgsd'; 
-const telegram = 'www.xnxx.com'; 
+const instagram = 'heniii189'; 
+const telegram = '082325088312'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'Kimi Hime :>';
+const youtube = 'Kimi Hime';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
