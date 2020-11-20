@@ -17,7 +17,7 @@ const BotName = 'Getoux';
 const instagram = 'heniii189'; 
 const telegram = '082325088312'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'Kimi Hime';
+const youtube = 'https://www.youtube.com/channel/UC3AaJrsoo9gcwKS7xEZy1xA';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
